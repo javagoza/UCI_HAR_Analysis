@@ -71,3 +71,7 @@ Creates a second, independent tidy data set with the average of each variable fo
 1. Download run_analysis.R file
 2. ```source('run_analysis.R')```
 3. Tidy data in: ```tidy_data.txt'``` after ran
+
+## Code Book
+
+code book that describes the variables, the data, and any transformations and work that performed to clean can be found in [CodeBook.md]
